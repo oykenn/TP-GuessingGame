@@ -1,0 +1,16 @@
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\bin\Debug\net8.0-windows\GuessingGame.exe
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\bin\Debug\net8.0-windows\GuessingGame.deps.json
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\bin\Debug\net8.0-windows\GuessingGame.runtimeconfig.json
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\bin\Debug\net8.0-windows\GuessingGame.dll
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\bin\Debug\net8.0-windows\GuessingGame.pdb
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.Form1.resources
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.csproj.GenerateResource.cache
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.AssemblyInfo.cs
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.dll
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\refint\GuessingGame.dll
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.pdb
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\GuessingGame.genruntimeconfig.cache
+C:\Users\Kenn\source\repos\04_Task_Performance_1\GuessingGame\GuessingGame\obj\Debug\net8.0-windows\ref\GuessingGame.dll
